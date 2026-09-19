@@ -1,0 +1,4 @@
+#Luego de hacer los cambios, hacer lo siguiente:
+git add .
+git commit -m "Describe lo que cambiaste"
+git push
